@@ -1,0 +1,1 @@
+alert("La aplicación fue atuenticada exitosamente.");

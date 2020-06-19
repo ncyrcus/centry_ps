@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>centry_ps</name>
+    <displayName><![CDATA[Centry&reg; for PrestaShop]]></displayName>
+    <version><![CDATA[2.0.4]]></version>
+    <description><![CDATA[Synchronizes your inventory with the world&#039;s best ecommerce connector.]]></description>
+    <author><![CDATA[Paulo Sandoval]]></author>
+    <editor><![CDATA[Nicolas Orellana]]></editor>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+    <limited_countries></limited_countries>
+</module>
